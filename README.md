@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dowlet77
 - 👀 I’m interested in WEB development.
 - 🌱 I’m currently learning studying to be a front-end developer.
-- 💞️ I’m looking for collaboration on Front-end development.
+- 💞️ I’m looking for collaboration on front-end development.
 - 📫 How to reach me : dowletgeldigarabatyrow@gmail.com
 
 <!---
